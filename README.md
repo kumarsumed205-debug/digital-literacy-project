@@ -18,3 +18,6 @@ This project focuses on digital literacy skills including infographic creation, 
 - Task 3: Platforms Exploration
 - Task 4: Email Etiquette
 - Task 5: Cybercrime Awareness
+
+## 📋 Google Form (Task 3)
+[Open Quiz](https://forms.gle/aT8xsv5ewQmy6iri8)
